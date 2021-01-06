@@ -59,7 +59,7 @@ void loop(){
   Serial.println(calcVoltage);
 
   Serial.println("Dust Density:");
-  Serial.println(dustDensity); // unit: mg/m3
+  Serial.println(dustDensity); 
 
   delay(3000);
 
